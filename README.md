@@ -1,4 +1,4 @@
 # sunshine
 My First Android App :D
 
-This is weather application that displays data for the coming week.
+This is a weather application that displays temperature for the coming week.
